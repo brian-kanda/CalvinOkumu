@@ -1,32 +1,58 @@
-### Hi there 👋, my name is Calvin Okumu
-#### I am a Software Engineering student @alxafrica
-![I am a Software Engineering student @alxafrica](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+Hi 👋 My name is Calvin Okumu 
+=============================
 
-👋 Hey there! I'm Calvin Okumu, a passionate software engineering enthusiast 🚀
+software engineering student
+----------------------------
 
-💻 Currently enrolled as a software engineering student at ALX Africa, diving deep into the world of programming languages such as C, Python, SQL, JavaScript, HTML, and CSS. My focus revolves around establishing a robust foundation in these languages while nurturing my skills in software development.
+I am a software engineering student at Alx Africa, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. As a student, I am focused on building a solid foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
 
-📚 My educational journey encompasses mastering the art of coding, crafting efficient algorithms, and building diverse applications and software systems. With a dedication to continuous learning, I'm committed to evolving into a proficient software engineer.
+* 🌍  I'm based in Nairobi, Kenya
+* 🖥️  See my blog at [hashnode](https://calvinokumu.hashnode.dev/)
+* ✉️  You can contact me at [calvinokumu1@gmail.com](mailto:calvinokumu1@gmail.com)
+* 🚀  I'm currently working towards being a full-stack engineer.
+* 🧠  I'm learning as many things as I can about software engineering.
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I'm secretly Spider-Man but don't tell anyone.
 
-✨ My ultimate goal? To leverage my skills and expertise in software development to innovate and solve intricate challenges through technology-driven solutions.
+<a href="https://www.github.com/calvinokumu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/calvinokumu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/EngCalvinOkumu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/EngCalvinOkumu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-#SoftwareEngineering #ProgrammingLanguages #ALXAfrica #TechEnthusiast #Innovation
-
-Skills: Shell Scripting / C / JS / HTML / CSS
-
-- 🔭 I’m currently working on Alx Software Engineering Course 
-- 🌱 I’m currently learning Software engineering  
-- 💬 Ask me about Anything 
-- 📫 How to reach me: Check out  my socials 
+### Skills
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@CalvinOkumu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](calvinokumu.hashnode.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@EngCalvinOkumu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://t.co/pg2Bw2oi1j)  
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@CalvinOkumu)](https://github.com/anuraghazra/github-readme-stats)
+### Socials
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=@CalvinOkumu&show_icons=true)  
+<p align="left"> <a href="https://discord.com/users/calvinintech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/calvinokumu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/calvin-okumu-b99693194" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EngCalvinOkumu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=@CalvinOkumu)  
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/calvinokumu"><img src="https://github-readme-stats.vercel.app/api?username=calvinokumu&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="calvinokumu's GitHub stats" /></a>
+
+<a href="http://www.github.com/calvinokumu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=calvinokumu&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/calvinokumu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=calvinokumu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/calvinokumu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvinokumu&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+                          
+                     
